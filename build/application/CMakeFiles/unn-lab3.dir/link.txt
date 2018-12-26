@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/unn-lab3.dir/main.cpp.o  -o unn-lab3 -rdynamic ../algo/libalgo.a 

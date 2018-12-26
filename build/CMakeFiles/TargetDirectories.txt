@@ -1,8 +1,0 @@
-/home/everent/space/unn-lab3/build/CMakeFiles/edit_cache.dir
-/home/everent/space/unn-lab3/build/CMakeFiles/rebuild_cache.dir
-/home/everent/space/unn-lab3/build/algo/CMakeFiles/edit_cache.dir
-/home/everent/space/unn-lab3/build/algo/CMakeFiles/rebuild_cache.dir
-/home/everent/space/unn-lab3/build/algo/CMakeFiles/algo.dir
-/home/everent/space/unn-lab3/build/application/CMakeFiles/edit_cache.dir
-/home/everent/space/unn-lab3/build/application/CMakeFiles/rebuild_cache.dir
-/home/everent/space/unn-lab3/build/application/CMakeFiles/unn-lab3.dir
