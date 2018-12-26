@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/everent/space/unn-lab3/algo/includes/Stack.h
+iostream
+-
+
+/home/everent/space/unn-lab3/algo/includes/calc.h
+Stack.h
+/home/everent/space/unn-lab3/algo/includes/Stack.h
+priority.h
+/home/everent/space/unn-lab3/algo/includes/priority.h
+postfix.h
+/home/everent/space/unn-lab3/algo/includes/postfix.h
+
+/home/everent/space/unn-lab3/algo/includes/help_funk.h
+iostream
+-
+
+/home/everent/space/unn-lab3/algo/includes/postfix.h
+
+/home/everent/space/unn-lab3/algo/includes/priority.h
+
+/home/everent/space/unn-lab3/application/main.cpp
+iostream
+-
+string.h
+-
+stdio.h
+-
+../algo/includes/Stack.h
+/home/everent/space/unn-lab3/algo/includes/Stack.h
+../algo/includes/help_funk.h
+/home/everent/space/unn-lab3/algo/includes/help_funk.h
+../algo/includes/priority.h
+/home/everent/space/unn-lab3/algo/includes/priority.h
+../algo/includes/postfix.h
+/home/everent/space/unn-lab3/algo/includes/postfix.h
+../algo/includes/calc.h
+/home/everent/space/unn-lab3/algo/includes/calc.h
+

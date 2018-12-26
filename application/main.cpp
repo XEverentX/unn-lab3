@@ -9,12 +9,14 @@
 
 int main() {
     char *s = new char[1000];
-    std::cin >> s;
+    std::cout << "\nHi! Enter the string.\n";
+    std::cout << "String may consist of numbers (int), whitespaces and operations (+ - * / ^ ( ) )\n\n";
+    std::cin.getline (s, 1000);
     try {
         postfix res = calc (s);
-        std::cout << std::endl << res.ans << std::endl;
+        std::cout << "\nСalculated Answer: " << res.ans << std::endl;
         res.print ();
     } catch (char* er) {
-        std::cout << er << std::endl;
+        std::cout << "Postfix string: " << er << std::endl;
     }
 }
